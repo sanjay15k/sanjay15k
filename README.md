@@ -14,7 +14,7 @@
 ## 
 ## Reach me via 👇
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjay15k/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjayk15/)
 [![Medium](https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@sanjay15k)
 [![Playstore](https://img.shields.io/badge/Play%20Store-pink.svg?style=for-the-badge&logo=Google)](https://play.google.com/store/apps/developer?id=SanjayK)
 [![Behance](https://img.shields.io/badge/Behance-green.svg?style=for-the-badge&logo=behance)](https://www.behance.net/sanjay15k)
